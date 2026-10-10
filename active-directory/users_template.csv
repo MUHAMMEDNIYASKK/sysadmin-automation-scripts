@@ -1,0 +1,3 @@
+FirstName,LastName,SamAccountName,Domain,TargetOU,DefaultPassword,Department,Title
+John,Doe,johndoe,corp.local,"OU=Users,OU=IT,DC=corp,DC=local",TempP@ss2026!,IT,Support Engineer
+Jane,Smith,janesmith,corp.local,"OU=Users,OU=Operations,DC=corp,DC=local",TempP@ss2026!,Operations,Executive
